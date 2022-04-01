@@ -12,13 +12,13 @@ import matplotlib.pyplot as plt
 #Forests, 250 Plains.
 
 Desert = 0
-Forest = 1
-Hills = 0
+Forest = 0
+Hills = 14
 Jungle = 0
 Marsh = 0
-Mountain = 0
-Plains = 1
-Urban = 0
+Mountain = 8
+Plains = 6
+Urban = 7
 
 #Next, enter the weights determining how often you attack from 1,2,3 or 4
 #sides. Example: 1,2,1,0.
